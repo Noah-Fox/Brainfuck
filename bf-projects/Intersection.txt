@@ -1,0 +1,7 @@
+//input x1; y1; w1; h1; x2; y2; w2; h2 into dim_array
+//determine s0; s1; s2; and s3 using bit_flipper; greater_operation; and and_operation 
+//determine exception using distance_algorithm; bit_flipper; and or_operation 
+//if exception; print 0 
+//create w_array; get w_stack using s0 and s2 
+//multiply values of dim_array with values of w_stack; and add together 
+//create h_array;

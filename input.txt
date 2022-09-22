@@ -1,0 +1,208 @@
+How 3
+2 
+much 4
+2
+wood 5
+2
+would 6
+2
+a 7
+2
+wood 5
+chuck 8 
+2
+chuck 8
+, 9
+1 
+If 10 
+2
+a 7
+2
+wood 5
+chuck 8
+2
+could 11
+2
+chuck 8
+2
+wood 5
+? 12
+1
+A 13
+2
+wood 5
+chuck 8
+2
+would 6
+2
+chuck 8
+2
+all 14
+2
+the 15
+2
+wood 5
+2
+he 16
+2
+could 11 
+2
+chuck 8
+1
+If 10
+2
+a 7
+2
+wood 5
+chuck 8
+2
+would 6
+2
+chuck 8
+2
+wood 5
+. 17
+1
+1
+Peter 18
+2
+Piper 19
+2
+picked 20
+2
+a 7
+2
+peck 21
+2
+of 22
+2
+pickled 23
+2
+peppers 24
+. 17
+1
+A 13
+2
+peck 21
+2
+of 22
+2
+pickled 23
+2
+peppers 24
+2
+Peter 18
+2
+Piper 19
+2
+picked 20
+. 17
+1
+If 10
+2
+Peter 18
+2
+Piper 19
+2
+picked 20
+2
+a 7
+2
+peck 21
+2
+of 22
+2
+pickled 23
+2
+peppers 24
+, 9
+1
+Where's 25
+2
+the 15
+2
+peck 21
+2
+of 22
+2
+pickled 23
+2
+peppers 24
+2
+Peter 18
+2
+Piper 19
+2
+picked 20
+? 12
+1
+1
+She 26
+2
+sells 27
+2
+sea 28
+shells 32
+2
+by 29
+2
+the 15
+2
+sea 28
+shore 30
+, 9
+1
+The 31
+2
+shells 32
+2
+she 33
+2
+sells 27
+2
+are 34
+2
+sea 28
+shells 32
+, 9
+2
+I'm 35
+2
+sure 36
+. 17
+1
+So 37
+2
+if 38
+2
+she 33
+2
+sells 27
+2
+sea 28
+shells 32
+2
+on 39
+2
+the 15
+2
+sea 28
+shore 30
+, 9
+1
+Then 40
+2
+I'm 35
+2
+sure 36
+2
+she 33
+2
+sells 27
+2
+sea 28
+shore 30
+2
+shells 32
+. 17
+1
